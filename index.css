@@ -1,0 +1,16 @@
+div {
+  width: 1000px;
+  height: 200px;
+}
+.top-left {
+  background: #000000;
+}
+.top-right {
+  background: #555555;
+}
+.bottom-left {
+  background: #398674;
+}
+.bottom-right {
+  background: #753205;
+}
